@@ -59,9 +59,23 @@
 #print(x == y)
 
 
-a = 3
-b = 7
+#a = 3
+#b = 7
 
-print(a != b)
+#print(a != b)
+
+
+# 7)
+
+
+
+#num1 = float(input("Enter the first number: "))
+#num2 = float(input("Enter the second number: "))
+
+
+#print("Addition:", num1 + num2)
+#print("Subtraction:", num1 - num2)
+#print("Multiplication:", num1 * num2)
+#print("Division:", num1 / num2)
 
 
